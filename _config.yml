@@ -1,0 +1,12 @@
+# Site settings
+title: QABrains
+email: hello@qabrains.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username: qabrains
+
+# Build settings
+markdown: kramdown
